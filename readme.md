@@ -22,5 +22,22 @@ js-calculator/ │── index.html # Main HTML structure │── style.css # 
 
 
 2. **Open the Project:**
-```Navigate to the project folder.
-```Open index.html in your browser.
+Navigate to the project folder.
+Open index.html in your browser.
+
+3. **⚙️ How It Works:**
+Click number buttons to input values.
+Click an operator button (+, -, *, /) to perform calculations.
+Click the equal button (=) to get the result.
+Click the clear button (C) to reset the input field.
+
+4. **💡 Future Improvements:**
+Implement keyboard support for faster inputs.
+Add a dark mode toggle for better UI experience.
+Support for decimal calculations.
+
+5. **🤝 Contributing:**
+Contributions are welcome! Feel free to fork this repository, create a branch, and submit a pull request with improvements.
+
+6. **📜 License:**
+This project is open-source and available under the MIT License.
